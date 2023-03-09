@@ -1,0 +1,8 @@
+Hostname, Date_Time, CPU (%), MEM (%)
+devopsplay, Wednesday 22 February 2023 07:22:51 PM IST, 0
+              total        used        free      shared  buff/cache   available
+Mem:        4108272     2001488      356536       11608     1750248     1805796
+devopsminion, Wednesday 22 February 2023 07:22:52 PM IST, 0
+              total        used        free      shared  buff/cache   available
+Mem:        8140768      778552     5130680       11712     2231536     7077112
+CPU and MEMORY are in optimize condition

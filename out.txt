@@ -1,0 +1,4 @@
+, ,
+, ,
+
+CPU and MEMORY are in optimize condition
